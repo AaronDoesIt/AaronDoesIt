@@ -6,10 +6,10 @@ I learn by building. At home I run Home Assistant on a Raspberry Pi with securit
 
 ## What's here
 
+- [My home lab](https://github.com/AaronDoesIt/home-lab): how my setup fits together, plus notes on real problems I've fixed
 - Android apps I've built for Google Play, including TalkBridge, a talk-to-text app for deaf and hard-of-hearing users (in testing now)
 - Spectral Drift, a music visualizer that runs on the web, Android and Windows
 - An AI voice companion I designed for an elderly friend who lives alone
-- My home lab setup and troubleshooting notes (coming soon)
 
 ## Reach me
 

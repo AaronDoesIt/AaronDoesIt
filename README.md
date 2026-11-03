@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Aaron
 
-<!--
-**AaronDoesIt/AaronDoesIt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a tech troubleshooter in Battle Ground, Washington. I run Aaron Does It, where I install TVs, cameras, smart-home systems and the networks behind them for homes and small businesses. Before that I spent twelve years at Charter Communications, five in tech support and seven in sales and retention.
 
-Here are some ideas to get you started:
+I learn by building. At home I run Home Assistant on a Raspberry Pi with security cameras, a local AI model, and monitoring that sends me an alert when something goes down. When I hit a problem I haven't seen before, I work through it with AI tools like Claude, and I write down what fixed it so it's faster next time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What's here
+
+- Android apps I've built for Google Play, including TalkBridge, a talk-to-text app for deaf and hard-of-hearing users (in testing now)
+- Spectral Drift, a music visualizer that runs on the web, Android and Windows
+- An AI voice companion I designed for an elderly friend who lives alone
+- My home lab setup and troubleshooting notes (coming soon)
+
+## Reach me
+
+[LinkedIn](https://www.linkedin.com/in/aaron-witbeck-4a733849/)
